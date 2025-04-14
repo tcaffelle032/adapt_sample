@@ -1,0 +1,601 @@
+[
+  {
+    "_id": "co-how-to",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "How to Use This Module",
+    "displayTitle": "How to Use This Module",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-1-intro",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+  {
+    "_id": "co-2-ch1",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Chapter 1",
+    "displayTitle": "Chapter 1: Text and Layout for Adapt Modules",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+     
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+  {
+    "_id": "co-3-ch2",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Chapter ",
+    "displayTitle": "Chapter 2: Interactive Elements",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+  {
+    "_id": "co-4-ch3",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Chapter ",
+    "displayTitle": "Chapter 3: Standard Page Elements in Adapt",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+  {
+    "_id": "co-5-ch4",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Chapter ",
+    "displayTitle": "Chapter 4: Check Your Progress",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-ref",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "References",
+    "displayTitle": "References",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-glo",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Glossary",
+    "displayTitle": "Glossary",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-congo",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Congratulations",
+    "displayTitle": "Congratulations",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  }
+
+
+
+
+
+  
+]

@@ -1,0 +1,2647 @@
+[
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-1",
+    "displayTitle": "",
+    "body": "<p>This backgrounder has interactive components such as drops-downs, tabs, and hotspots that must be completed before moving forward.</p><p>Selecting the progress bar in the top right of the screen will display all the interactive items within the chapter. Once the progress bar is filled, you can progress to the next chapter.</p>",
+    "_id": "c-95-1",
+    "_parentId": "b-95",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-95-2",
+    "_parentId": "b-95",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/progress.png",
+      "small": "assets/GUI/progress.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-2",
+    "displayTitle": "",
+    "body": "<p>At the end of each chapter, answer the 'Check Your Progress' questions to complete the chapter.</p>",
+    "_id": "c-96-1",
+    "_parentId": "b-96",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "b-96-2",
+    "_parentId": "b-96",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/cyp.png",
+      "small": "assets/GUI/cyp.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-3",
+    "displayTitle": "",
+    "body": "<p>Glossary terms are <span class=\"g-term\"><strong>highlighted</strong></span> throughout this backgrounder. The glossary can also be accessed by selecting the menu on the right.</p>",
+    "_id": "c-97-1",
+    "_parentId": "b-97",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-3",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-97-2",
+    "_parentId": "b-97",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/glossary.png",
+      "small": "assets/GUI/glossary.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "b-98-1",
+    "displayTitle": "",
+    "body": "<p>Select the Quick Fact! and Zoom In icons at the margins to display callouts with additional information.</p>",
+    "_id": "c-98-1",
+    "_parentId": "b-98",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-4",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-98-2",
+    "_parentId": "b-98",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/callout.png",
+      "small": "assets/GUI/callout.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "c-99",
+    "_parentId": "b-99",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-100",
+    "_parentId": "b-100",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "Welcome",
+    "displayTitle": "",
+    "body": "<div class='intro_section'> <div class='intro_img'> <img src='assets/GUI/welcome.svg'/> </div> <div><p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p> <p>Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere.</p></div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-105",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "Module Summary",
+    "displayTitle": "",
+    "body": "<div class='intro_section'> <div class='intro_img'> <img src='assets/GUI/summary.svg'/> </div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere.</p></div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-110",
+    "_parentId": "b-110",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "Module Summary",
+    "displayTitle": "",
+    "body": "<div class='intro_section'> <div class='intro_img'> <img src='assets/GUI/lo.svg'/></div><div><p>Upon completion of this module, learners will be able to:</p> <p><strong>Understanding key concepts:</strong><br> Learners grasp the fundamental ideas and principles related to the subject matter of the module.</p> <p><strong>Skill acquisition:</strong><br> Practical skills pertinent to their field or interests are learned and can be applied in real-world situations.</p> <p><strong>Critical thinking:</strong><br> Improved ability to analyze, evaluate, and synthesize information from the module.</p></div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-115",
+    "_parentId": "b-115",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "<p><strong>Be sure that all callouts and interactivities are completed before moving forward.</strong></p> <p><strong>Select the progress bar at the top right of the screen for any missed interactions.</strong></p>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-120",
+    "_parentId": "b-120",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "Heading 6 Subheads will use this style",
+    "body": "<p><strong>Body-Bold style</strong></p> <p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> <p> Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere. </p> <ul> <li>Bullet List Level 1</li> <ul> <li>Bullet List Level 2</li> <ul> <li>Bullet List Level 3</li> </ul> </ul> </ul>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-125",
+    "_parentId": "b-125",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "Heading 6 with body",
+    "body": "<p>Line-height drop to 15 px when directly above body text.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-130",
+    "_parentId": "b-130",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "",
+    "body": "<p>At full-width, everything in this prototype and therefore everything in our adapt modules, should operate on an 880px, 12 column grid. Each column is 55px with 20px margins between them. Content areas are 960px wide, accounting for 40px margins on the left and right. The following examples will all follow variations of this structure.</p> <div class=\"grid\" > <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-135",
+    "_parentId": "b-135",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "",
+    "body": "<p>Images should be set to full-width when they convey complex information that will be valuable to the reader, especially if the orientation is horizontonal. Examples being graphs, charts, scientific diagrams. Graphics will provide these images at 880px width unless otherwise instructed. Please follow padding as demonstrated below.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "assets/images/placeholder.jpeg",
+      "small": "assets/images/placeholder.jpeg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "c-140",
+    "_parentId": "b-140",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "a5_b1_c1",
+    "displayTitle": "",
+    "body": "<p>Two-Column images will likely be the most common way to layout in-line images. Perfect for stock photos, and reference materials that allow the text to flow without interuption. Graphics will provide these images at 430px wide, height will vary with a 500px maximum in mind.</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-145",
+    "_parentId": "b-140",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "a5_b1_c2",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "assets/images/placeholder.jpeg",
+      "small": "assets/images/placeholder.jpeg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "c-150",
+    "_parentId": "b-145",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a6_b1_c1",
+    "displayTitle": "",
+    "body": "<div class='grid'> <div class='grid__column-4'> <p>Less Likely, but when this the best layout option, <strong>graphics will provide images at 280px width, consistent heights.</strong></p> </div> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-155",
+    "_parentId": "b-150",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a7_b1_c1",
+    "displayTitle": "",
+    "body": "<div class='grid'> <div class='grid__column-3'> <p>Will rarely be used with text, but is possible. <strong>Graphics will provide images at 205px when applicable.</strong></p> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-160",
+    "_parentId": "b-155",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a8_b1_c1",
+    "displayTitle": "",
+    "body": "<div class='grid'> <div class='grid__column-2'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-2'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-2'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-2'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-2'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-2'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-165",
+    "_parentId": "b-160",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a9_b1_c1",
+    "displayTitle": "",
+    "body": "<div class='grid'> <div class='grid__column-4'> <p><strong>Graphics will provide images at 580px width when applicable.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus.</p> </div> <div class='grid__column-8'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-170",
+    "_parentId": "b-160",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a9_b1_c2",
+    "displayTitle": "",
+    "body": "<div class='grid'> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-8'> <p><strong>Graphics will provide images/icons at 240px.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere. </p> </div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-175",
+    "_parentId": "b-165",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Ch 2 nav",
+    "displayTitle": "",
+    "body": "<p><strong>Be sure that all callouts and interactivities are completed before moving forward.</strong></p> <p><strong>Select the progress bar at the top right of the screen for any missed interactions.</strong></p>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-180",
+    "_parentId": "b-170",
+    "_type": "component",
+    "_component": "tabs",
+    "_classes": "quickFact",
+    "_layout": "full",
+    "title": "Tabs",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_tabLayout": "horizontal",
+    "_minHeight": "250px",
+    "_comment": "Only set min height if you want to uniform the content container size across tab items. By default, the container will display at the height of each item's content",
+    "_items": [
+      {
+        "tabTitle": "Tab 1: Use Body-Bold style, center-aligned",
+        "title": "Tab 1",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 2: Use Body-Bold style, center-aligned",
+        "title": "Tab 2",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      }
+    ],
+    "_hint": {
+      "_isEnabled": true,
+      "title": "Quick Fact",
+      "altTitle": "",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "_imageAlignment": "right",
+      "_button": {
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": ""
+      }
+    }
+  },
+  {
+    "_id": "c-185",
+    "_parentId": "b-175",
+    "_type": "component",
+    "_component": "tabs",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Tabs",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_tabLayout": "horizontal",
+    "_minHeight": "250px",
+    "_comment": "Only set min height if you want to uniform the content container size across tab items. By default, the container will display at the height of each item's content",
+    "_items": [
+      {
+        "tabTitle": "Tab 1: Use Body-Bold style, center-aligned",
+        "title": "Tab 1",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 2: Use Body-Bold style, center-aligned",
+        "title": "Tab 2",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 3: Use Body-Bold style, center-aligned",
+        "title": "Tab 3",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 4: Use Body-Bold style, center-aligned",
+        "title": "Tab 4",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 5: Use Body-Bold style, center-aligned",
+        "title": "Tab 5",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 6: Use Body-Bold style, center-aligned",
+        "title": "Tab 6",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_id": "c-190",
+    "_parentId": "b-180",
+    "_type": "component",
+    "_component": "tabs",
+    "_classes": "zoomIn",
+    "_layout": "full",
+    "title": "Tabs",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_tabLayout": "vertical",
+    "_minHeight": "",
+    "_comment": "Only set min height if you want to uniform the content container size across tab items. By default, the container will display at the height of each item's content",
+    "_items": [
+      {
+        "tabTitle": "Tab 1: Use Body-Bold style, center-aligned",
+        "title": "Tab 1",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 2: Use Body-Bold style, center-aligned",
+        "title": "Tab 2",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      }
+    ],
+    "_hint": {
+      "_isEnabled": true,
+      "title": "Zoom In",
+      "altTitle": "",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "_imageAlignment": "right",
+      "_button": {
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": ""
+      }
+    }
+  },
+  {
+    "_id": "c-195",
+    "_parentId": "b-185",
+    "_type": "component",
+    "_component": "tabs",
+    "_classes": "flashForward",
+    "_layout": "full",
+    "title": "Tabs",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_tabLayout": "vertical",
+    "_minHeight": "250px",
+    "_comment": "Only set min height if you want to uniform the content container size across tab items. By default, the container will display at the height of each item's content",
+    "_items": [
+      {
+        "tabTitle": "Tab 1: Use Body-Bold style, center-aligned",
+        "title": "Tab 1",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 2: Use Body-Bold style, center-aligned",
+        "title": "Tab 2",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 3: Use Body-Bold style, center-aligned",
+        "title": "Tab 3",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 4: Use Body-Bold style, center-aligned",
+        "title": "Tab 4",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 5: Use Body-Bold style, center-aligned",
+        "title": "Tab 5",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Tab 6: Use Body-Bold style, center-aligned",
+        "title": "Tab 6",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_classes": ""
+      }
+    ],
+    "_hint": {
+      "_isEnabled": true,
+      "title": "Flash Forward",
+      "altTitle": "",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "_imageAlignment": "right",
+      "_button": {
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": ""
+      }
+    }
+  },
+  {
+    "_id": "c-200",
+    "_parentId": "b-190",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "modern",
+    "_layout": "full",
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Heading 1",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Heading 2",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Heading 3",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Heading 4",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-205",
+    "_parentId": "b-195",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Heading 1",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Heading 2",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Heading 3",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Heading 4",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-210",
+    "_parentId": "b-200",
+    "_type": "component",
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Hot graphic",
+    "displayTitle": "",
+    "body": "Hotspot Images should always use the same icon, unless otherwise dictated by the storyboard and be colored the same as the ‘callout’ icons to the right. Never build a hotspot image less that 430px wide. Consult the graphic designers if an image needs to be adjusted to accommodate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "instruction": "",
+    "mobileBody": "This is optional body text that will be shown when viewed on mobile.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_canCycleThroughPagination": false,
+    "_hidePagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": true,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_graphic": {
+      "src": "assets/images/image 1.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "_items": [
+      {
+        "_top": 25,
+        "_left": 25,
+        "title": "Hotspot 1 title",
+        "body": "This is display text 1.",
+        "strapline": "Hotspot 1 strapline",
+        "_imageAlignment": "",
+        "_comment": "Supported classes = 'hide-desktop-image' | 'hide-popup-image'. Additional classes can be used but they must be predefined in one of the Less files",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "assets/GUI/Normal/hotspot-icon.svg",
+          "alt": ""
+        }
+      },
+      {
+        "_top": 50,
+        "_left": 50,
+        "title": "Hotspot 2 title",
+        "body": "This is display text 2 with a left aligned image.",
+        "strapline": "Hotspot 2 strapline",
+        "_imageAlignment": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "assets/GUI/Normal/hotspot-icon.svg",
+          "alt": ""
+        }
+      },
+      {
+        "_top": 75,
+        "_left": 75,
+        "title": "Hotspot 3 title",
+        "body": "This is display text 3.",
+        "strapline": "Hotspot 3 strapline",
+        "_imageAlignment": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "assets/GUI/Normal/hotspot-icon.svg",
+          "alt": ""
+        }
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-215",
+    "_parentId": "b-205",
+    "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Narrative",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_hasNavigationInTextArea": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_items": [
+      {
+        "title": "Narrative item 1 title",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+        "_graphic": {
+          "src": "assets/images/placeholder.jpeg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Narrative item 2 title",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+        "_graphic": {
+          "src": "assets/images/placeholder.jpeg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Narrative item 3 title",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+        "_graphic": {
+          "src": "assets/images/placeholder.jpeg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-220",
+    "_parentId": "b-210",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-225",
+    "_parentId": "b-215",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Upon completion of this chapter, learners will be able to:",
+        "body": "<ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> </ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-230",
+    "_parentId": "b-220",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "tables",
+    "displayTitle": "Table 3-1: Standard Vertically Aligned Table",
+    "body": "<table> <tr> <th colspan=\"6\">Table Header Cell</th> </tr> <tr> <th colspan=\"3\" class='subhead'>Table subhead cell</th> <th class='subhead' colspan=\"3\">Table subhead cell</th> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> </table>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-235",
+    "_parentId": "b-225",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "tables",
+    "displayTitle": "Table 3-2: Standard Vertically Aligned Table",
+    "body": "<table> <tr> <th colspan=\"8\">Table Header Cell</th> </tr> <tr> <th rowspan=\"9\" class='subhead'>Table subhead cell</th> <th rowspan=\"9\" class='subhead'>Table subhead cell</th> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> </table>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-240",
+    "_parentId": "b-230",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Figures",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "assets/images/placeholder.jpeg",
+      "small": "assets/images/placeholder.jpeg",
+      "attribution": "Figure 1: Titles always center aligned, below the figure, using the body-bold style, expand icon to right",
+      "_url": "assets/images/placeholder.jpeg",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-245",
+    "_parentId": "b-235",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "tables",
+    "displayTitle": "",
+    "body": "<p>Labeled Figures should rarely, if ever be smaller that 428px wide. If they contain neccesary and complex information, users should have the option to “click to Enlarge. This will dictate the layot of the surrounding text, and the labeling standards should remain the same.</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-250",
+    "_parentId": "b-235",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Figures",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "assets/images/placeholder.jpeg",
+      "small": "assets/images/placeholder.jpeg",
+      "attribution": "Figure 2: 428px (6-column) figure",
+      "_url": "assets/images/placeholder.jpeg",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-255",
+    "_parentId": "b-240",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Key Concept 1",
+        "body": "<ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> </ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Key Concept 2",
+        "body": "<ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> </ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Key Concept 3",
+        "body": "<ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> <div class='spacer'></div> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</li> </ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-260",
+    "_parentId": "b-245",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-265",
+    "_parentId": "b-250",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "Why don't skeletons fight each other?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Answer numero uno",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "They don't have the guts.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Answer numero tres",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Answer numero quatro",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-270",
+    "_parentId": "b-255",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Question 2",
+    "displayTitle": "",
+    "body": "Why don't scientists trust atoms?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Because they make up everything!",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Because they always split!",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Because they're always getting into a reaction.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-275",
+    "_parentId": "b-260",
+    "_type": "component",
+    "_component": "matching",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Matching",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_allowOnlyUniqueAnswers": false,
+    "_hasItemScoring": false,
+    "_items": [
+      {
+        "text": "Why am I our of clever filler copy?",
+        "_options": [
+          {
+            "text": "Answer A",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Answer B",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Answer C",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "WHo is to blame for this?",
+        "_options": [
+          {
+            "text": "Answer A",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Answer B",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Answer C",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "What else what else what else?",
+        "_options": [
+          {
+            "text": "Answer A",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Answer B",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Answer C",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-280",
+    "_parentId": "b-265",
+    "_type": "component",
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Results",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_assessmentId": "Assessment 1",
+    "_isVisibleBeforeCompletion": true,
+    "_comment": "setCompletionOn = inview | pass",
+    "_setCompletionOn": "inview",
+    "_comment": "_resetType = inherit | hard | soft",
+    "_resetType": "inherit",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "You scored {{{score}}} out of {{{maxScore}}}. {{{feedback}}}",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedbackNotFinal": "Sorry, but you didn't pass.<br>Why not give it another try? You have used {{attemptsSpent}} of {{attempts}} attempt(s), Take some time to review the course before giving it another try.",
+        "feedback": "Good effort, but your score was below 25%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 25,
+        "feedbackNotFinal": "Sorry, but you didn't pass.<br>Why not give it another try? You have used {{attemptsSpent}} of {{attempts}} attempt(s), Take some time to review the course before giving it another try.",
+        "feedback": "Good effort, but your score was below 50%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 50,
+        "feedbackNotFinal": "Sorry, but you didn't pass.<br>Why not give it another try? You have used {{attemptsSpent}} of {{attempts}} attempt(s), Take some time to review the course before giving it another try.",
+        "feedback": "Good effort, but your score was under 75%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 80,
+        "feedback": "Great work. You have finished the Check Your Progress with {{{scoreAsPercent}}}%.",
+        "_allowRetry": true,
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-285",
+    "_parentId": "b-270",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "",
+    "displayTitle": "",
+    "body": "<ol> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> <li>Reference</li> </ol>",
+    "_id": "c3-100",
+    "_parentId": "b3-100",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "c3-200",
+    "_parentId": "b3-200",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c4-100",
+    "_parentId": "b4-100",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "glossary",
+    "_layout": "full",
+    "title": "Glossary",
+    "displayTitle": "",
+    "body": "<table> <tr> <th>Term</th> <th>Definition</th> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> <tr> <td>Term</td> <td>Definition</td> </tr> </table>"
+  },
+  {
+    "_id": "c4-200",
+    "_parentId": "b4-200",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Congratulations",
+    "displayTitle": "",
+    "body": "<h4 class=\"mb-0\">You've completed <strong><span class=\"title-color\">The Module</span></strong> course. You may exit the course by clicking the “X” in the upper right of the browser window in which you viewed the course. Thank you.</h4>",
+    "_id": "c5-100",
+    "_parentId": "b5-100",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_hint": [],
+    "_canNotifyContent": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "c5-200",
+    "_parentId": "b5-200",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  }
+]

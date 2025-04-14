@@ -1,0 +1,279 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "_classes": "",
+  "_htmlClasses": "",
+  "title": "LEARNING SYSTEM TITLE",
+  "displayTitle": "LEARNING SYSTEM TITLE",
+  "description": "",
+  "body": "Module Title: Lorem ipsum dolor sit amet, consectetur adipiscing elit sed fermentum tellus ut quam",
+  "instruction": "",
+  "_lockType": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Show your answer",
+      "ariaLabel": "Show your answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_globals": {
+    "_learnerInfo": {
+      "id": "student.name@example.org",
+      "name": "Name, Student",
+      "firstname": "Student",
+      "lastname": "Name"
+    },
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_extensions": {
+      "_hint": {
+        "openButtonText": "Open hint"
+      },
+      "_drawer": {
+        "_navOrder": 100
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
+      }
+    }
+  },
+  "_latestTrackingId": 45,
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": false,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Resources",
+    "description": "View resources for this course by clicking here.",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Document",
+      "media": "Media",
+      "link": "Link"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "title": "Print",
+        "description": "PDF Version of the backgrounder",
+        "_link": "assets/pdf/GLP-1 RA Backgrounder And Investigational Data For NASHMASH-v17.pdf",
+        "filename": "GLP-1 RA Backgrounder And Investigational Data For NASHMASH.pdf",
+        "_forceDownload": true
+      }
+    ]
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [
+      {
+        "_id": "co-05",
+        "_skipIfComplete": true,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_assessment": {
+    "_isPercentageBased": false,
+    "_scoreToPass": -1,
+    "_correctToPass": -1
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "title": "Resume?",
+    "body": "Would you like to resume the course from the location you were at last time?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_BBIO": {
+    "_favIcon": {
+      "_src": ""
+    }
+  },
+  "_glossary": {
+    "_isEnabled": true,
+    "_drawerOrder": 1,
+    "title": "Glossary",
+    "description": "Select here to view the glossary for this course",
+    "clearSearch": "Clear search",
+    "searchItemsAlert": "{{filteredItems.length}} found",
+    "searchPlaceholder": "Search",
+    "searchWithInDescriptionLabel": "Search within Description",
+    "itemNotFoundMessage": "No results found",
+    "_isIndexEnabled": false,
+    "_isGroupHeadersEnabled": false,
+    "_isSearchEnabled": true,
+    "_glossaryItems": [
+      {
+        "term": "agonist",
+        "description": "drug that binds to the receptor and stimulates its function"
+      },
+      {
+        "term": "ascites",
+        "description": "accumulation of fluid in the peritoneal cavity (abdomen), can be due to several causes including obstructed blood flow to the liver and cirrhosis"
+      },
+      {
+        "term": "ballooning",
+        "description": "swelling of cells typically seen in microscopic examination; ballooning of hepatocytes (liver cells) denotes cell degeneration characterized by swelling and enlargement as found in steatohepatitis due to NASH/MASH"
+      },
+      {
+        "term": "concomitant",
+        "description": "taking place at the same time as something else"
+      },
+      {
+        "term": "controlled attenuation parameter (CAP)",
+        "description": "ultrasound-based noninvasive tool used to assess liver fat"
+      },
+      {
+        "term": "C-reactive protein (CRP)",
+        "description": "protein that binds with phospholipids on foreign substances and activates the immune system; stimulates the production of inflammatory molecules such as cytokines; elevated blood levels of CRP are found in many infectious and inflammatory diseases"
+      },
+      {
+        "term": "fibrosis",
+        "description": "repair and replacement of inflamed cells by connective tissue cells (fibroblasts), eventually resulting in replacement of normal organ tissue by scar tissue"
+      },
+      {
+        "term": "glucagon",
+        "description": "hormone secreted by the pancreas that increases blood glucose by stimulating the liver to convert stored glycogen into glucose; it opposes the action of insulin"
+      },
+      {
+        "term": "glycated hemoglobin (HbA1c)",
+        "description": "long-term measure of blood glucose control"
+      },
+      {
+        "term": "hepatic encephalopathy",
+        "description": "brain dysfunction in patients with chronic liver disease and portal hypertension due to failure of the liver to detoxify the blood; may result in cognitive impairment and coma"
+      },
+      {
+        "term": "incretin",
+        "description": "one of several peptide hormones produced in the small intestine or colon in response to glucose; it stimulates secretion of insulin and inhibits secretion of glucagon"
+      },
+      {
+        "term": "lipoprotein",
+        "description": "any of the conjugated chemicals in the bloodstream consisting of simple proteins bound to fat; cholesterol, phospholipids, and triglycerides are all fatty components of lipoproteins; lipoproteins are classified by their degree of density"
+      },
+      {
+        "term": "pioglitazone",
+        "description": "oral drug in the thiazolidinedione class used as an adjunct to diet and exercise for management of type 2 diabetes"
+      },
+      {
+        "term": "SF-36",
+        "description": "Medical Outcomes Study 36-Item Short-Form Health Survey; tool that measures perceived health status in 8 domains that include responses on physical, social, pain, mental health, emotional, vitality, and general health"
+      },
+      {
+        "term": "steatohepatitis",
+        "description": "deposition of fat in the liver"
+      },
+      {
+        "term": "steatosis",
+        "description": "abnormal accumulation of fat inside cells or organs, common in obesity and type 2 diabetes"
+      },
+      {
+        "term": "transient elastography",
+        "description": "noninvasive measure of liver stiffness, measured by a device marketed as FibroScan<sup>®</sup>; elasticity of the liver is closely associated with the degree of fibrosis"
+      },
+      {
+        "term": "variceal",
+        "description": "pertaining to a varix, a twisting dilatation of a blood vessel (vein)"
+      }
+    ]
+  },
+  "_boxMenu": {
+    "_graphic": {
+      "alt": "",
+      "_src": ""
+    },
+    "_backgroundImage": {
+      "_xlarge": "assets/GUI/background.png",
+      "_large": "assets/GUI/background.png",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundSize": "cover",
+      "_backgroundRepeat": "no-repeat",
+      "_backgroundPosition": "center center"
+    },
+    "_menuHeader": {
+      "_textAlignment": {
+        "_title": "left",
+        "_body": "left",
+        "_instruction": "left"
+      },
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "contain",
+        "_backgroundRepeat": "repeat",
+        "_backgroundPosition": "center center"
+      }
+    }
+  }
+}

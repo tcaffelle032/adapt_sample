@@ -1,0 +1,439 @@
+[
+
+  {
+    "_id": "a-95",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "_layout": "full",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-96",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-97",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-98",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-99",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-100",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "Welcome",
+    "displayTitle": "Welcome",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-105",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "Module Summary",
+    "displayTitle": "Module Summary",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-110",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "Module Summary_2",
+    "displayTitle": "Module Summary",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-115",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "intro_nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-120",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "a1",
+    "displayTitle": "Heading 4: Use this type style for all section headers",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-125",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "a2",
+    "displayTitle": "Heading 4 with body",
+    "body": "<p><strong>Heading 4 should always have 40px below</strong></p><p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "a-130",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "a3",
+    "displayTitle": "12 Column Grid Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-135",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "12 layout",
+    "displayTitle": "12 Column: Full Width Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-140",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "6x2 layout",
+    "displayTitle": "6:6 Column Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-145",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "4x3 layout",
+    "displayTitle": "4:4:4 Column Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-150",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "3x4 layout",
+    "displayTitle": "3:3:3:3 Column Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-155",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "2x6 layout",
+    "displayTitle": "2:2:2:2:2:2 Column Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-160",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "8:4 Layout",
+    "displayTitle": "8:4 Column Layout",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-165",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "navigation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-170",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Tabs",
+    "displayTitle": "Tabs: Horizontal",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-175",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Tabs",
+    "displayTitle": "Tabs: Vertical",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-180",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Accordions",
+    "displayTitle": "Accordions",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-185",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Hotspot Image",
+    "displayTitle": "Hotspot Images",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-190",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Narrative",
+    "displayTitle": "Narrative",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-195",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "navigation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-200",
+    "_parentId": "co-4-ch3",
+    "_type": "article",
+    "_classes": "",
+    "title": "Learning Objectives",
+    "displayTitle": "Learning Objectives",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-205",
+    "_parentId": "co-4-ch3",
+    "_type": "article",
+    "_classes": "",
+    "title": "Tables",
+    "displayTitle": "Tables",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-210",
+    "_parentId": "co-4-ch3",
+    "_type": "article",
+    "_classes": "",
+    "title": "Figures",
+    "displayTitle": "Figures",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-215",
+    "_parentId": "co-4-ch3",
+    "_type": "article",
+    "_classes": "",
+    "title": "Key Concepts",
+    "displayTitle": "Key Concepts",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-220",
+    "_parentId": "co-4-ch3",
+    "_type": "article",
+    "_classes": "",
+    "title": "Navigation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-225",
+    "_parentId": "co-5-ch4",
+    "_type": "article",
+    "_classes": "",
+    "title": "Check Your Progress",
+    "displayTitle": "Check Your Progress",
+    "body": "",
+    "instruction": "",
+    "_assessment": {
+        "_isEnabled": true,
+        "_id": "Assessment 1",
+        "_suppressMarking": false,
+        "_scoreToPass" : 80,
+        "_correctToPass": 0,
+        "_isPercentageBased" : true,
+        "_includeInTotalScore": false,
+        "_assessmentWeight": 1,
+        "_isResetOnRevisit": false,
+        "_attempts": 2,
+        "_allowResetIfPassed": false,
+        "_scrollToOnReset": false,
+        "_banks": {
+            "_isEnabled": false,
+            "_split": "2,1",
+            "_randomisation": false
+        },
+        "_randomisation": {
+            "_isEnabled": false,
+            "_blockCount": 1
+        },
+        "_questions": {
+            "_resetIncorrectOnly": true,
+            "_resetType": "hard",
+            "_comment": "For 'soft', when using trickle, please set the trickle Completion Attribute to `_isInteractionComplete'.",
+            "_canShowFeedback": true,
+            "_canShowMarking": true,
+            "_canShowModelAnswer": true
+        }
+    }
+  },
+  {
+    "_id": "a-230",
+    "_parentId": "co-5-ch4",
+    "_type": "article",
+    "_classes": "",
+    "title": "Results",
+    "displayTitle": "Results",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-235",
+    "_parentId": "co-5-ch4",
+    "_type": "article",
+    "_classes": "",
+    "title": "navigation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+
+  
+
+  {
+    "_id": "a3-100",
+    "_parentId": "co-ref",
+    "_type": "article",
+    "_classes": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a3-200",
+    "_parentId": "co-ref",
+    "_type": "article",
+    "_classes": "",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a4-100",
+    "_parentId": "co-glo",
+    "_type": "article",
+    "_classes": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a4-200",
+    "_parentId": "co-glo",
+    "_type": "article",
+    "_classes": "",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a5-100",
+    "_parentId": "co-congo",
+    "_type": "article",
+    "_classes": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a5-200",
+    "_parentId": "co-congo",
+    "_type": "article",
+    "_classes": "",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  }
+
+
+
+  
+
+]
