@@ -604,8 +604,8 @@
     "_classes": "flip",
     "_layout": "full",
     "title": "a1_b1_c1",
-    "displayTitle": "Heading 6 Subheads will use this style",
-    "body": "<p><strong>Body-Bold style</strong></p> <p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> <p> Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere. </p> <ul> <li>Bullet List Level 1</li> <ul> <li>Bullet List Level 2</li> <ul> <li>Bullet List Level 3</li> </ul> </ul> </ul>",
+    "displayTitle": "Title Style 3 - Components",
+    "body": "<p><strong>Body-Bold style</strong></p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> <p> Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere. </p> <ul> <li>Bullet List Level 1</li> <ul> <li>Bullet List Level 2</li> <ul> <li>Bullet List Level 3</li> </ul> </ul> </ul>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -619,8 +619,8 @@
     "_classes": "flip",
     "_layout": "full",
     "title": "a2_b1_c1",
-    "displayTitle": "Heading 6 with body",
-    "body": "<p>Line-height drop to 15 px when directly above body text.</p>",
+    "displayTitle": "Title Style 3 with Body",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -635,7 +635,7 @@
     "_layout": "full",
     "title": "a2_b1_c1",
     "displayTitle": "",
-    "body": "<p>At full-width, everything in this prototype and therefore everything in our adapt modules, should operate on an 880px, 12 column grid. Each column is 55px with 20px margins between them. Content areas are 960px wide, accounting for 40px margins on the left and right. The following examples will all follow variations of this structure.</p> <div class=\"grid\" > <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> </div>",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> <div class=\"grid\" > <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> <div class='sample-grid'>55px</div> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -650,7 +650,7 @@
     "_layout": "full",
     "title": "a2_b1_c1",
     "displayTitle": "",
-    "body": "<p>Images should be set to full-width when they convey complex information that will be valuable to the reader, especially if the orientation is horizontonal. Examples being graphs, charts, scientific diagrams. Graphics will provide these images at 880px width unless otherwise instructed. Please follow padding as demonstrated below.</p>",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -676,7 +676,7 @@
     "_layout": "left",
     "title": "a5_b1_c1",
     "displayTitle": "",
-    "body": "<p>Two-Column images will likely be the most common way to layout in-line images. Perfect for stock photos, and reference materials that allow the text to flow without interuption. Graphics will provide these images at 430px wide, height will vary with a 500px maximum in mind.</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p>",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -717,7 +717,7 @@
     "_layout": "full",
     "title": "a6_b1_c1",
     "displayTitle": "",
-    "body": "<div class='grid'> <div class='grid__column-4'> <p>Less Likely, but when this the best layout option, <strong>graphics will provide images at 280px width, consistent heights.</strong></p> </div> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "body": "<div class='grid'> <div class='grid__column-4'> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</strong></p> </div> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -732,7 +732,7 @@
     "_layout": "full",
     "title": "a7_b1_c1",
     "displayTitle": "",
-    "body": "<div class='grid'> <div class='grid__column-3'> <p>Will rarely be used with text, but is possible. <strong>Graphics will provide images at 205px when applicable.</strong></p> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "body": "<div class='grid'> <div class='grid__column-3'> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</strong></p> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-3'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -762,7 +762,7 @@
     "_layout": "full",
     "title": "a9_b1_c1",
     "displayTitle": "",
-    "body": "<div class='grid'> <div class='grid__column-4'> <p><strong>Graphics will provide images at 580px width when applicable.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus.</p> </div> <div class='grid__column-8'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
+    "body": "<div class='grid'> <div class='grid__column-4'> <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus.</p> </div> <div class='grid__column-8'> <img src='assets/images/placeholder.jpeg'/> </div> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -777,7 +777,7 @@
     "_layout": "full",
     "title": "a9_b1_c2",
     "displayTitle": "",
-    "body": "<div class='grid'> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-8'> <p><strong>Graphics will provide images/icons at 240px.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere. </p> </div> </div>",
+    "body": "<div class='grid'> <div class='grid__column-4'> <img src='assets/images/placeholder.jpeg'/> </div> <div class='grid__column-8'> <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere. </p> </div> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1556,7 +1556,7 @@
     "_classes": "",
     "_layout": "full",
     "title": "tables",
-    "displayTitle": "Table 3-1: Standard Vertically Aligned Table",
+    "displayTitle": "Table Example: Horizontal",
     "body": "<table> <tr> <th colspan=\"6\">Table Header Cell</th> </tr> <tr> <th colspan=\"3\" class='subhead'>Table subhead cell</th> <th class='subhead' colspan=\"3\">Table subhead cell</th> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> </table>",
     "instruction": "",
     "_pageLevelProgress": {
@@ -1571,7 +1571,7 @@
     "_classes": "",
     "_layout": "full",
     "title": "tables",
-    "displayTitle": "Table 3-2: Standard Vertically Aligned Table",
+    "displayTitle": "Table Example: Vertical",
     "body": "<table> <tr> <th colspan=\"8\">Table Header Cell</th> </tr> <tr> <th rowspan=\"9\" class='subhead'>Table subhead cell</th> <th rowspan=\"9\" class='subhead'>Table subhead cell</th> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> <tr> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> <td>Table Body Cell</td> <td>Highlighted Cell</td> </tr> </table>",
     "instruction": "",
     "_pageLevelProgress": {
@@ -1613,7 +1613,7 @@
     "_layout": "left",
     "title": "tables",
     "displayTitle": "",
-    "body": "<p>Labeled Figures should rarely, if ever be smaller that 428px wide. If they contain neccesary and complex information, users should have the option to “click to Enlarge. This will dictate the layot of the surrounding text, and the labeling standards should remain the same.</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+    "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -1828,7 +1828,7 @@
     "_layout": "full",
     "title": "Question 1",
     "displayTitle": "",
-    "body": "Why don't skeletons fight each other?",
+    "body": "Single multiple choice example",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_attempts": 2,
@@ -1844,23 +1844,23 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Answer numero uno",
+        "text": "Wrong",
         "altText": "",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       },
       {
-        "text": "They don't have the guts.",
+        "text": "Right",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Answer numero tres",
+        "text": "Wrong",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Answer numero quatro",
+        "text": "Wrong",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
@@ -1891,7 +1891,7 @@
     "_layout": "full",
     "title": "Question 2",
     "displayTitle": "",
-    "body": "Why don't scientists trust atoms?",
+    "body": "Multiple select example",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_attempts": 2,
@@ -1907,24 +1907,24 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Because they make up everything!",
+        "text": "Right",
         "altText": "",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Because they always split!",
+        "text": "Right",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Because they're always getting into a reaction.",
+        "text": "Right",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "All of the above",
-        "_shouldBeSelected": true,
+        "text": "Wrong",
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
     ],
@@ -1973,7 +1973,7 @@
     "_hasItemScoring": false,
     "_items": [
       {
-        "text": "Why am I our of clever filler copy?",
+        "text": "First matching example",
         "_options": [
           {
             "text": "Answer A",
@@ -1993,7 +1993,7 @@
         ]
       },
       {
-        "text": "WHo is to blame for this?",
+        "text": "Second matching example",
         "_options": [
           {
             "text": "Answer A",
@@ -2013,7 +2013,7 @@
         ]
       },
       {
-        "text": "What else what else what else?",
+        "text": "Third matching example",
         "_options": [
           {
             "text": "Answer A",

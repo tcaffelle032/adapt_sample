@@ -97,7 +97,7 @@
     "_type": "article",
     "_classes": "",
     "title": "a1",
-    "displayTitle": "Heading 4: Use this type style for all section headers",
+    "displayTitle": "Title Style 1 - Articles",
     "body": "",
     "instruction": ""
   },
@@ -107,8 +107,8 @@
     "_type": "article",
     "_classes": "",
     "title": "a2",
-    "displayTitle": "Heading 4 with body",
-    "body": "<p><strong>Heading 4 should always have 40px below</strong></p><p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis.</p>",
+    "displayTitle": "Title Style 1 with Body",
+    "body": "<p><strong>Heading 4 should always have 40px below</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis.</p>",
     "instruction": ""
   },
   {
@@ -117,7 +117,7 @@
     "_type": "article",
     "_classes": "",
     "title": "a3",
-    "displayTitle": "12 Column Grid Layout",
+    "displayTitle": "Standard Column Grid Layout",
     "body": "",
     "instruction": ""
   },
@@ -127,7 +127,7 @@
     "_type": "article",
     "_classes": "",
     "title": "12 layout",
-    "displayTitle": "12 Column: Full Width Layout",
+    "displayTitle": "Full Width Layout",
     "body": "",
     "instruction": ""
   },
@@ -137,7 +137,7 @@
     "_type": "article",
     "_classes": "",
     "title": "6x2 layout",
-    "displayTitle": "6:6 Column Layout",
+    "displayTitle": "Half Column Layout",
     "body": "",
     "instruction": ""
   },
@@ -147,7 +147,7 @@
     "_type": "article",
     "_classes": "",
     "title": "4x3 layout",
-    "displayTitle": "4:4:4 Column Layout",
+    "displayTitle": "Third Column Layout",
     "body": "",
     "instruction": ""
   },
@@ -157,7 +157,7 @@
     "_type": "article",
     "_classes": "",
     "title": "3x4 layout",
-    "displayTitle": "3:3:3:3 Column Layout",
+    "displayTitle": "Fourths Column Layout",
     "body": "",
     "instruction": ""
   },
@@ -167,7 +167,7 @@
     "_type": "article",
     "_classes": "",
     "title": "2x6 layout",
-    "displayTitle": "2:2:2:2:2:2 Column Layout",
+    "displayTitle": "Six Column Layout",
     "body": "",
     "instruction": ""
   },
@@ -177,7 +177,7 @@
     "_type": "article",
     "_classes": "",
     "title": "8:4 Layout",
-    "displayTitle": "8:4 Column Layout",
+    "displayTitle": "Split 8:4 layout Column Layout",
     "body": "",
     "instruction": ""
   },
@@ -259,7 +259,8 @@
     "title": "Learning Objectives",
     "displayTitle": "Learning Objectives",
     "body": "",
-    "instruction": ""
+    "instruction": "",
+    "_isAvailable":false
   },
   {
     "_id": "a-205",
@@ -276,8 +277,8 @@
     "_parentId": "co-4-ch3",
     "_type": "article",
     "_classes": "",
-    "title": "Figures",
-    "displayTitle": "Figures",
+    "title": "Expandable Images",
+    "displayTitle": "Expandable Images",
     "body": "",
     "instruction": ""
   },
@@ -289,7 +290,8 @@
     "title": "Key Concepts",
     "displayTitle": "Key Concepts",
     "body": "",
-    "instruction": ""
+    "instruction": "",
+    "_isAvailable":false
   },
   {
     "_id": "a-220",
