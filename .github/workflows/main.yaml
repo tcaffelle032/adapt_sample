@@ -2,8 +2,12 @@ name: Deploy to S3
 
 on:
   push:
-    branches:
-      - main  # Trigger this workflow only when pushing to the 'master' branch
+    branches: [ main ]   # CI/CD fires on pushes to main
+
+# Required so the OIDC token can be minted for your job
+permissions:
+  id-token: write
+  contents: read
 
 jobs:
   deploy:
@@ -19,7 +23,7 @@ jobs:
         node-version: '16'
 
     - name: Install dependencies
-      run: npm install
+      run: npm ci            # faster & repeatable
 
     - name: Install Grunt CLI globally
       run: npm install -g grunt-cli
@@ -27,23 +31,15 @@ jobs:
     - name: Run Grunt build
       run: grunt build
 
-    - name: Configure AWS credentials
+    - name: Configure AWS credentials (OIDC)
       uses: aws-actions/configure-aws-credentials@v2
       with:
-        aws-access-key-id: ${{ secrets.CAFFELLE_USER}}
-        aws-secret-access-key: ${{ secrets.CAFFELLE_KEY }}
-        aws-region: us-east-1  # Replace with your desired AWS region
+        role-to-assume: arn:aws:iam::247310156864:role/aws_uploader
+        aws-region: us-east-1
+        role-session-name: github-actions-${{ github.run_id }}
 
     - name: Sync files to S3
       run: |
-        aws s3 sync build/ s3://${{ secrets.AWS_S3_BUCKET }} --delete --acl public-read
+        aws s3 sync build/ s3:// ${{secrets.AWS_S3_BUCKET}} --delete --acl public-read
       env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.CAFFELLE_USER }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.CAFFELLE_KEY }}
         AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-
-# Notes:
-# 1. Replace 'master' with your branch name if different.
-# 2. Ensure Gruntfile.js is correctly set up to build into the 'build/' directory.
-# 3. AWS_S3_BUCKET should be stored as a GitHub secret with your S3 bucket name.
-# 4. Store AWS credentials as GitHub secrets: AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY.
