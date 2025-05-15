@@ -444,7 +444,7 @@
     "_layout": "full",
     "title": "Welcome",
     "displayTitle": "",
-    "body": "<div class='intro_section'> <div class='intro_img'> <img src='assets/GUI/welcome.svg'/> </div> <div><p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p> <p>Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere.</p></div> </div>",
+    "body": "<div class='intro_section'>`</div> <div><p>Body style to be used for all body text. Please see below for demonstrated line-heghts. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p> <p>Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere.</p></div> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -459,7 +459,7 @@
     "_layout": "full",
     "title": "Module Summary",
     "displayTitle": "",
-    "body": "<div class='intro_section'> <div class='intro_img'> <img src='assets/GUI/summary.svg'/> </div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere.</p></div>",
+    "body": "<div class='intro_section'></div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et urna nec justo facilisis accumsan. Donec vel suscipit felis. Nullam id libero nec orci volutpat vehicula. Suspendisse potenti. Integer non felis et magna ultrices tincidunt. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vehicula elit eu nisl euismod, a vulputate magna dapibus. Phasellus a venenatis magna. Phasellus tempus nisl eget nulla volutpat, id varius lectus fermentum. Etiam aliquam felis et ex malesuada, at gravida arcu consectetur. Nullam tincidunt ex vel est tempus, sed euismod sapien posuere.</p></div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -474,7 +474,7 @@
     "_layout": "full",
     "title": "Module Summary",
     "displayTitle": "",
-    "body": "<div class='intro_section'> <div class='intro_img'> <img src='assets/GUI/lo.svg'/></div><div><p>Upon completion of this module, learners will be able to:</p> <p><strong>Understanding key concepts:</strong><br> Learners grasp the fundamental ideas and principles related to the subject matter of the module.</p> <p><strong>Skill acquisition:</strong><br> Practical skills pertinent to their field or interests are learned and can be applied in real-world situations.</p> <p><strong>Critical thinking:</strong><br> Improved ability to analyze, evaluate, and synthesize information from the module.</p></div>",
+    "body": "<div class='intro_section'> </div><div><p>Upon completion of this module, learners will be able to:</p> <p><strong>Understanding key concepts:</strong><br> Learners grasp the fundamental ideas and principles related to the subject matter of the module.</p> <p><strong>Skill acquisition:</strong><br> Practical skills pertinent to their field or interests are learned and can be applied in real-world situations.</p> <p><strong>Critical thinking:</strong><br> Improved ability to analyze, evaluate, and synthesize information from the module.</p></div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -929,12 +929,12 @@
     ],
     "_hint": {
       "_isEnabled": true,
-      "title": "Quick Fact",
+      "title": "Hint",
       "altTitle": "",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "_imageAlignment": "right",
       "_button": {
-        "_iconClass": "",
+        "_iconClass": "icon-star",
         "_alignIconRight": true,
         "text": "",
         "ariaLabel": ""
@@ -1024,12 +1024,12 @@
     ],
     "_hint": {
       "_isEnabled": true,
-      "title": "Zoom In",
+      "title": "Search",
       "altTitle": "",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "_imageAlignment": "right",
       "_button": {
-        "_iconClass": "",
+        "_iconClass": "icon-search",
         "_alignIconRight": true,
         "text": "",
         "ariaLabel": ""
@@ -1090,12 +1090,12 @@
     ],
     "_hint": {
       "_isEnabled": true,
-      "title": "Flash Forward",
+      "title": "Forward",
       "altTitle": "",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "_imageAlignment": "right",
       "_button": {
-        "_iconClass": "",
+        "_iconClass": "icon-video-fast-forward",
         "_alignIconRight": true,
         "text": "",
         "ariaLabel": ""
@@ -1264,7 +1264,7 @@
     "_useGraphicsAsPins": false,
     "_isRound": false,
     "_graphic": {
-      "src": "assets/images/image 1.png",
+      "src": "course/en/assets/golf_image.png",
       "alt": "",
       "attribution": ""
     },
@@ -1289,7 +1289,7 @@
           "text": "{{ariaLabel}}"
         },
         "_pin": {
-          "src": "assets/GUI/Normal/hotspot-icon.svg",
+          "src": "",
           "alt": ""
         }
       },
@@ -1312,7 +1312,7 @@
           "text": "{{ariaLabel}}"
         },
         "_pin": {
-          "src": "assets/GUI/Normal/hotspot-icon.svg",
+          "src": "",
           "alt": ""
         }
       },
@@ -1335,7 +1335,7 @@
           "text": "{{ariaLabel}}"
         },
         "_pin": {
-          "src": "assets/GUI/Normal/hotspot-icon.svg",
+          "src": "",
           "alt": ""
         }
       }

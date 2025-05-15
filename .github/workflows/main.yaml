@@ -1,0 +1,49 @@
+name: Deploy to S3
+
+on:
+  push:
+    branches:
+      - master  # Trigger this workflow only when pushing to the 'master' branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Install Grunt CLI globally
+      run: npm install -g grunt-cli
+
+    - name: Run Grunt build
+      run: grunt build
+
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v2
+      with:
+        aws-access-key-id: ${{ secrets.CAFFELLE_USER}}
+        aws-secret-access-key: ${{ secrets.CAFFELLE_KEY }}
+        aws-region: us-east-1  # Replace with your desired AWS region
+
+    - name: Sync files to S3
+      run: |
+        aws s3 sync build/ s3://${{ secrets.AWS_S3_BUCKET }} --delete --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.CAFFELLE_USER }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.CAFFELLE_KEY }}
+        AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+
+# Notes:
+# 1. Replace 'master' with your branch name if different.
+# 2. Ensure Gruntfile.js is correctly set up to build into the 'build/' directory.
+# 3. AWS_S3_BUCKET should be stored as a GitHub secret with your S3 bucket name.
+# 4. Store AWS credentials as GitHub secrets: AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY.

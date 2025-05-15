@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "adapt-theme-chimerix": "*",
+    "adapt-theme-caffelle": "*",
     "adapt-contrib-text": "*",
     "adapt-contrib-narrative": "*",
     "adapt-contrib-media": "*",

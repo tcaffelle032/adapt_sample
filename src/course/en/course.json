@@ -114,10 +114,10 @@
     "_resourcesItems": [
       {
         "_type": "document",
-        "title": "Print",
-        "description": "PDF Version of the backgrounder",
-        "_link": "assets/pdf/GLP-1 RA Backgrounder And Investigational Data For NASHMASH-v17.pdf",
-        "filename": "GLP-1 RA Backgrounder And Investigational Data For NASHMASH.pdf",
+        "title": "Resume'",
+        "description": "Resume'",
+        "_link": "course/en/assets/Tyler Caffelle - Leader - Developer - Stratigist.pdf",
+        "filename": "yler Caffelle - Leader - Developer - Stratigist.pdf",
         "_forceDownload": true
       }
     ]
@@ -169,76 +169,28 @@
     "_isSearchEnabled": true,
     "_glossaryItems": [
       {
-        "term": "agonist",
-        "description": "drug that binds to the receptor and stimulates its function"
+        "term": "Term",
+        "description": "Definition"
       },
       {
-        "term": "ascites",
-        "description": "accumulation of fluid in the peritoneal cavity (abdomen), can be due to several causes including obstructed blood flow to the liver and cirrhosis"
+        "term": "Term",
+        "description": "Definition"
       },
       {
-        "term": "ballooning",
-        "description": "swelling of cells typically seen in microscopic examination; ballooning of hepatocytes (liver cells) denotes cell degeneration characterized by swelling and enlargement as found in steatohepatitis due to NASH/MASH"
+        "term": "Term",
+        "description": "Definition"
       },
       {
-        "term": "concomitant",
-        "description": "taking place at the same time as something else"
+        "term": "Term",
+        "description": "Definition"
       },
       {
-        "term": "controlled attenuation parameter (CAP)",
-        "description": "ultrasound-based noninvasive tool used to assess liver fat"
+        "term": "Term",
+        "description": "Definition"
       },
       {
-        "term": "C-reactive protein (CRP)",
-        "description": "protein that binds with phospholipids on foreign substances and activates the immune system; stimulates the production of inflammatory molecules such as cytokines; elevated blood levels of CRP are found in many infectious and inflammatory diseases"
-      },
-      {
-        "term": "fibrosis",
-        "description": "repair and replacement of inflamed cells by connective tissue cells (fibroblasts), eventually resulting in replacement of normal organ tissue by scar tissue"
-      },
-      {
-        "term": "glucagon",
-        "description": "hormone secreted by the pancreas that increases blood glucose by stimulating the liver to convert stored glycogen into glucose; it opposes the action of insulin"
-      },
-      {
-        "term": "glycated hemoglobin (HbA1c)",
-        "description": "long-term measure of blood glucose control"
-      },
-      {
-        "term": "hepatic encephalopathy",
-        "description": "brain dysfunction in patients with chronic liver disease and portal hypertension due to failure of the liver to detoxify the blood; may result in cognitive impairment and coma"
-      },
-      {
-        "term": "incretin",
-        "description": "one of several peptide hormones produced in the small intestine or colon in response to glucose; it stimulates secretion of insulin and inhibits secretion of glucagon"
-      },
-      {
-        "term": "lipoprotein",
-        "description": "any of the conjugated chemicals in the bloodstream consisting of simple proteins bound to fat; cholesterol, phospholipids, and triglycerides are all fatty components of lipoproteins; lipoproteins are classified by their degree of density"
-      },
-      {
-        "term": "pioglitazone",
-        "description": "oral drug in the thiazolidinedione class used as an adjunct to diet and exercise for management of type 2 diabetes"
-      },
-      {
-        "term": "SF-36",
-        "description": "Medical Outcomes Study 36-Item Short-Form Health Survey; tool that measures perceived health status in 8 domains that include responses on physical, social, pain, mental health, emotional, vitality, and general health"
-      },
-      {
-        "term": "steatohepatitis",
-        "description": "deposition of fat in the liver"
-      },
-      {
-        "term": "steatosis",
-        "description": "abnormal accumulation of fat inside cells or organs, common in obesity and type 2 diabetes"
-      },
-      {
-        "term": "transient elastography",
-        "description": "noninvasive measure of liver stiffness, measured by a device marketed as FibroScan<sup>®</sup>; elasticity of the liver is closely associated with the degree of fibrosis"
-      },
-      {
-        "term": "variceal",
-        "description": "pertaining to a varix, a twisting dilatation of a blood vessel (vein)"
+        "term": "Term",
+        "description": "Definition"
       }
     ]
   },
